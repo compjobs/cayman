@@ -73,7 +73,7 @@ Following the AAAI 2025 main conference submission & review process, each paper 
 
 Submissions are limited to a total of **FIVE** pages, including all content and references, must be in PDF format, and formatted according to the AAAI standard. Additional information about formatting and style files is available [here](https://aaai.org/conference/aaai/aaai-25/aaai-25-main-technical-call-for-papers/).
 
-**Submission site coming soon**.
+Please submit your paper via [Open Review site](https://openreview.net/group?id=AAAI.org/2025/Workshop/CompJobs).
 
 # CONTACTS
 
