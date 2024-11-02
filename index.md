@@ -85,4 +85,7 @@ Please contact organizers with any questions and concerns:
 
 # ARCHIVES
 
-[The First International Workshop on Computational Jobs Marketplace at WSDM 2022](compjobs2022.html)
+Previous editions of the workshop are listed here:
+
+*  [The Workshop on Decision Intelligence and Analytics for Online Marketplaces: Jobs, Ridesharing, Retail, and Beyond at KDD 2022](https://sites.google.com/view/kdd22onlinemarketplaces)
+*  [The First International Workshop on Computational Jobs Marketplace at WSDM 2022](compjobs2022.html)
