@@ -62,8 +62,8 @@ We solicit papers describing significant and innovative research and application
 
 # IMPORTANT DATES
 
-*  November 29, 2024: Submissions Due (Extended)
-*  December 16, 2024: Notifications Out (Extended)
+*  November 29, 2024: Submissions Due (**Extended**)
+*  December 16, 2024: Notifications Out (**Extended**)
 *  March 4, 2025: Workshop Day
 
 
