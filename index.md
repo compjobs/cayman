@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Welcome to **The Second International Workshop on Computational Jobs Marketplace** to be held as part of [**The 39th Annual AAAI Conference on Artificial Intelligence**](https://aaai.org/conference/aaai/aaai-25/).
+Welcome to **The AAAI Workshop on Computational Jobs Marketplace** to be held as part of [**The 39th Annual AAAI Conference on Artificial Intelligence**](https://aaai.org/conference/aaai/aaai-25/).
 
-*  **Date**:  March 4, 2025
+*  **Date**:  <span style="color:red">8:50AM - 12:05PM</span>, March 4  2025
 *  **Location**: Philadelphia, Pennsylvania, USA
 
 Online job marketplaces such as Indeed.com, ZipRecruiter, CareerBuilder and LinkedIn Inc. help millions of job seekers find their next job. These platforms also provide services for thousands of employers to fill their opening positions. With all players in the ecosystem, the market size of this industry is projected to steadily grow and reach $43 billion dollars in 2027. On top of that, the global pandemic COVID-19 in 2020 and the emerging AI trends have profoundly transformed workplaces and the online jobs marketplace, creating and driving new types of jobs and marketplace technologies around the world. Today, online job marketplaces play a central role in this new wave of digital revolution of workforce and workplaces. While this industry generates tremendous growth in the past several years, technological innovations around this industry have yet to come. Many technologies, such as search systems, recommender systems as well as advertising systems that the industry heavily relies on are deeply rooted in their more generic counterparts, which may not address the unique challenges in this industry for better products serving both job seekers and employers/recruiters.
@@ -14,11 +14,37 @@ This workshop would play a critical role to bring together the research and deve
 
 # KEYNOTE SPEAKERS
 
-TBD
+
+![daniel](/assets/daniel.jpeg)
+
+**Daniel Hewlett, Principal Staff AI Engineer at LinkedIn**
+
+**Talk Title: TBD**
+
+
+![hasan](/assets/hasan.jpeg)
+
+**Mohammad Al Hasan, Professor of Computer Science at Indianna University**
+
+**Talk Title: TBD**
 
 # PROGRAM
 
-TBD
+| Time      | Content |
+| :--- | :------ |
+| 8:55 AM – 9:00 AM | **Opening Remarks from Chairs** |
+| 9:00 AM – 9:45 AM | **Keynote Talk**: Daniel Hewlett from LinkedIn |
+| 9:45 AM – 9:55 AM | **Talk: Trading off Relevance and Revenue in the Jobs Marketplace: Estimation, Optimization and Auction Design** <br/> Farzad Pourbabaee, Sophie Yanying Sheng, Peter B. McCrory, Luke Simon, Di Mo |
+| 9:55 AM – 10:05 AM | **Talk: Mitigating Language Bias in Cross-Lingual Job Retrieval: A Recruitment Platform Perspective** <br/> Napat Laosaengpha, Thanit Tativannarat, Attapol Rutherford, Ekapol Chuangsuwanich |
+| 10:05 AM – 10:15 AM | **Talk: Multi-objective ranking for job marketplace optimization** <br/> Rong Liu |
+| 10:15 AM – 10:25 AM | **Talk: Enterprise Experimentation with Hierarchical Entities** <br/> Shan Ba, Shilpa Garg, Jitendra Agarwal, Hanyue Zhao |
+| 10:25 AM – 10:35 AM | **Talk: Lessons Learned --- Building ML Models to Remove Irrelevant Results in Job Search** <br/> Gabriel Womark, Ritvik Kharkar, Ishan Shrivastava |
+| 10:35 AM – 11:20 AM | **Keynote Talk**: Mohammad Al Hasan from Indiana University |
+| 11:20 AM - 11:30 AM | **Talk: Weak Supervision For Improved Precision In Search Systems** <br/> Sriram Vasudevan |
+| 11:30 AM – 11:40 AM | **Talk: Harnessing Large Language Models for Cost-Effective Relevance Labeling in Job Search Systems** <br/> Ishan Shrivastava, Nadav Barkai, Ritvik Kharkar |
+| 11:40 AM – 11:50 AM | **Talk: Migrating a Job Search Relevance Function** <br/> Bennett Mountain, Gabriel Womark, Ritvik Kharkar |
+| 11:50 AM – 12:00 PM | **Talk: Ordinal Regression for Job Search Keyword Similarity Prediction** <br/> Md Ahsanul Kabir, Kareem Abdelfatah, Mohammed Korayem, Mohammad Hasan |
+| 12:05 PM – 12:10 PM | **Closing Remarks from Chairs** |
 
 # ORGANIZERS
 
@@ -36,7 +62,15 @@ TBD
 
 # PROGRAM COMMITTEE MEMBERS
 
-TBD
+*  **Yidi Xu**, The Wharton School, University of Pennsylvania
+*  **Sophie Yanying Sheng**, Researcher at LinkedIn
+*  **Kaixu Yang**, Researcher at LinkedIn
+*  **Farzad Pourbabaee**, Researcher at LinkedIn
+*  **Ashley Chang**, Researcher at ZipRecruiter
+*  **Rong Liu**, Data Scientist at Ziprecruiter Inc.
+*  **Md Ahsanul Kabir**, Researcher at Careerbuilder LLC
+*  **Wei Han**, Data Scientist at CareerBuilder LLC
+*  **Janani Balaji**, Researcher at The Home Depo
 
 # LIST OF TOPICS
 
