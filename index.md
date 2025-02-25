@@ -38,11 +38,11 @@ This workshop would play a critical role to bring together the research and deve
 | 9:55 AM – 10:05 AM | **Talk: Mitigating Language Bias in Cross-Lingual Job Retrieval: A Recruitment Platform Perspective** [[PDF](/assets/paper_202502.pdf)]  <br/> Napat Laosaengpha (Chulalongkorn University), Thanit Tativannarat (Chulalongkorn University), Attapol Rutherford (Chulalongkorn University), Ekapol Chuangsuwanich (Chulalongkorn University) |
 | 10:05 AM – 10:15 AM | **Talk: Multi-objective ranking for job marketplace optimization** <br/> Rong Liu |
 | 10:15 AM – 10:25 AM | **Talk: Enterprise Experimentation with Hierarchical Entities** [[PDF](/assets/paper_202504.pdf)] <br/> Shan Ba (LinkedIn), Shilpa Garg (LinkedIn), Jitendra Agarwal (LinkedIn), Hanyue Zhao (LinkedIn) |
-| 10:25 AM – 10:35 AM | **Talk: Lessons Learned --- Building ML Models to Remove Irrelevant Results in Job Search** <br/> Gabriel Womark, Ritvik Kharkar, Ishan Shrivastava |
+| 10:25 AM – 10:35 AM | **Talk: Lessons Learned --- Building ML Models to Remove Irrelevant Results in Job Search** [[PDF](/assets/paper_202505.pdf)] <br/> Gabriel Womark (ZipRecruiter), Ritvik Kharkar (ZipRecruiter), Ishan Shrivastava (ZipRecruiter)|
 | 10:35 AM – 11:20 AM | **Keynote Talk**: Mohammad Al Hasan from Indiana University |
 | 11:20 AM - 11:30 AM | **Talk: Weak Supervision For Improved Precision In Search Systems** <br/> Sriram Vasudevan |
-| 11:30 AM – 11:40 AM | **Talk: Harnessing Large Language Models for Cost-Effective Relevance Labeling in Job Search Systems** <br/> Ishan Shrivastava, Nadav Barkai, Ritvik Kharkar |
-| 11:40 AM – 11:50 AM | **Talk: Migrating a Job Search Relevance Function** <br/> Bennett Mountain, Gabriel Womark, Ritvik Kharkar |
+| 11:30 AM – 11:40 AM | **Talk: Harnessing Large Language Models for Cost-Effective Relevance Labeling in Job Search Systems** [[PDF](/assets/paper_202507.pdf)] <br/> Ishan Shrivastava (ZipRecruiter), Nadav Barkai (ZipRecruiter), Ritvik Kharkar (ZipRecruiter) |
+| 11:40 AM – 11:50 AM | **Talk: Migrating a Job Search Relevance Function** [[PDF](/assets/paper_202508.pdf)] <br/> Bennett Mountain (ZipRecruiter), Gabriel Womark (ZipRecruiter), Ritvik Kharkar (ZipRecruiter) |
 | 11:50 AM – 12:00 PM | **Talk: Ordinal Regression for Job Search Keyword Similarity Prediction** <br/> Md Ahsanul Kabir, Kareem Abdelfatah, Mohammed Korayem, Mohammad Hasan |
 | 12:05 PM – 12:10 PM | **Closing Remarks from Chairs** |
 
