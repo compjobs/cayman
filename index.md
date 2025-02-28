@@ -19,7 +19,11 @@ This workshop would play a critical role to bring together the research and deve
 
 **Daniel Hewlett, Principal Staff AI Engineer at LinkedIn**
 
-**Talk Title: TBD**
+**Talk Title: Emerging Challenges for Recruiting AI**
+
+**Abstract**: This talk will explore some of the ways that the AI problems at the core of the talent marketplace are changing, opening up new areas of research and application. Using the ongoing evolution of LinkedIn’s Recruiter product experience from a classical search engine to a hiring assistant as a case study, we will examine some of these newer AI problems, relate them to other academic research areas, and discuss how the community can collaborate and share knowledge going forward.
+
+**Short Bio**: Daniel Hewlett is a Principal Staff AI Engineer at LinkedIn, focused on developing the AI capabilities underlying LinkedIn’s new Hiring Assistant, an agent supporting the needs of hirers within the talent marketplace. Previously, Daniel worked in the NLP group at Google Research, and at YouTube, after receiving his Ph.D. in Computer Science from the University of Arizona in 2011. Daniel has contributed to publications at conferences including AAAI, ACL, and KDD.
 
 
 ![hasan](/assets/hasan.jpeg)
@@ -37,7 +41,7 @@ This workshop would play a critical role to bring together the research and deve
 | Time      | Content |
 | :--- | :------ |
 | 8:55 AM – 9:00 AM | **Opening Remarks from Chairs** |
-| 9:00 AM – 9:45 AM | **Keynote Talk**: Daniel Hewlett from LinkedIn |
+| 9:00 AM – 9:45 AM | **Keynote Talk**: Daniel Hewlett from LinkedIn <br/> **Talk Title: Emerging Challenges for Recruiting AI** |
 | 9:45 AM – 9:55 AM | **Talk: Trading off Relevance and Revenue in the Jobs Marketplace: Estimation, Optimization and Auction Design** [[PDF](/assets/paper_202501.pdf)] <br/> Farzad Pourbabaee (LinkedIn), Sophie Yanying Sheng (LinkedIn), Peter B. McCrory (LinkedIn), Luke Simon (LinkedIn), Di Mo (LinkedIn) |
 | 9:55 AM – 10:05 AM | **Talk: Mitigating Language Bias in Cross-Lingual Job Retrieval: A Recruitment Platform Perspective** [[PDF](/assets/paper_202502.pdf)]  <br/> Napat Laosaengpha (Chulalongkorn University), Thanit Tativannarat (Chulalongkorn University), Attapol Rutherford (Chulalongkorn University), Ekapol Chuangsuwanich (Chulalongkorn University) |
 | 10:05 AM – 10:15 AM | **Talk: Multi-objective ranking for job marketplace optimization** [[PDF](/assets/paper_202503.pdf)] <br/> Rong Liu (ZipRecruiter), Eran Brill (ZipRecruiter), Ethan Barker (ZipRecruiter), Ashley Chang (ZipRecruiter), Yiftach Dayan (ZipRecruiter), Yu Sun (ZipRecruiter) |
