@@ -26,7 +26,11 @@ This workshop would play a critical role to bring together the research and deve
 
 **Mohammad Al Hasan, Professor of Computer Science at Indianna University**
 
-**Talk Title: TBD**
+**Talk Title: Ordered Network Embedding and its Potential Applications in Online Job Marketplaces**
+
+**Abstract**: Node embedding is a well-studied research topic with numerous proposed methods derived from matrix factorization to graph neural networks. All the proposed methods attempt to preserve pairwise node proximity in the embedding space, where the proximity is measured based on graph topology or node features. The proximity metrics are generally symmetric, which limits the existing methods to consider undirected networks only. However, in real-life many networks are ordered, and existing embedding methods are not good fit for representing nodes of such networks. For instance, in the job marketplace domain, we use job transition network to generate future job recommendation, but a job transition network is directional, and ignoring such direction for embedding the job vectors may generate poor job recommendation. In this talk, I will give a brief overview of existing methodologies of ordered network embedding followed by a presentation of BINDER, a very efficient method for embedding ordered networks that we have proposed.
+
+**Short Bio**: Dr. Mohammad Al Hasan is a full Professor of Computer Science at Luddy School of Informatics, Computing, and Engineering, Indiana University Indianapolis. Before joining academia, he was a senior research scientist at eBay Research Labs in San Jose, CA. He received his Ph.D. from the Computer Science department at Rensselaer Polytechnic Institute (RPI), NY.  Dr. Hasan holds an MS degree in Computer Science from the University of Minnesota, Twin Cities. His core research interest lies in graph machine learning, and natural language processing with broader interests spanning data mining, bioinformatics, biomedical informatics, network analysis, information retrieval, and social network analysis. His research has garnered support from prestigious organizations such as NSF, NIH, and eBay Inc. In recognition of his contributions, Dr. Hasan received several awards, including the NSF Career Award and SIGKDD dissertation award. He is a Senior Member of ACM and IEEE.
 
 # PROGRAM
 
@@ -39,7 +43,7 @@ This workshop would play a critical role to bring together the research and deve
 | 10:05 AM – 10:15 AM | **Talk: Multi-objective ranking for job marketplace optimization** [[PDF](/assets/paper_202503.pdf)] <br/> Rong Liu (ZipRecruiter), Eran Brill (ZipRecruiter), Ethan Barker (ZipRecruiter), Ashley Chang (ZipRecruiter), Yiftach Dayan (ZipRecruiter), Yu Sun (ZipRecruiter) |
 | 10:15 AM – 10:25 AM | **Talk: Enterprise Experimentation with Hierarchical Entities** [[PDF](/assets/paper_202504.pdf)] <br/> Shan Ba (LinkedIn), Shilpa Garg (LinkedIn), Jitendra Agarwal (LinkedIn), Hanyue Zhao (LinkedIn) |
 | 10:25 AM – 10:35 AM | **Talk: Lessons Learned --- Building ML Models to Remove Irrelevant Results in Job Search** [[PDF](/assets/paper_202505.pdf)] <br/> Gabriel Womark (ZipRecruiter), Ritvik Kharkar (ZipRecruiter), Ishan Shrivastava (ZipRecruiter)|
-| 10:35 AM – 11:20 AM | **Keynote Talk**: Mohammad Al Hasan from Indiana University |
+| 10:35 AM – 11:20 AM | **Keynote Talk**: Mohammad Al Hasan from Indiana University <br/> **Talk Title: Ordered Network Embedding and its Potential Applications in Online Job Marketplaces** |
 | 11:20 AM - 11:30 AM | **Talk: Weak Supervision For Improved Precision In Search Systems** [[PDF](/assets/paper_202506.pdf)]  <br/> Sriram Vasudevan (LinkedIn) |
 | 11:30 AM – 11:40 AM | **Talk: Harnessing Large Language Models for Cost-Effective Relevance Labeling in Job Search Systems** [[PDF](/assets/paper_202507.pdf)] <br/> Ishan Shrivastava (ZipRecruiter), Nadav Barkai (ZipRecruiter), Ritvik Kharkar (ZipRecruiter) |
 | 11:40 AM – 11:50 AM | **Talk: Migrating a Job Search Relevance Function** [[PDF](/assets/paper_202508.pdf)] <br/> Bennett Mountain (ZipRecruiter), Gabriel Womark (ZipRecruiter), Ritvik Kharkar (ZipRecruiter) |
